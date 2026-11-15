@@ -1,0 +1,6 @@
+data/
+venv/
+etc
+*/.ipynb_checkpoints/*
+.mypy_cache/
+kaggle-project-intro.pdf
